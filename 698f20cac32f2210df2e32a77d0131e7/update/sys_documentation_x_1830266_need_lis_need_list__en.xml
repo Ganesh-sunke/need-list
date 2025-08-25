@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="need list" language="en" table="x_1830266_need_lis_need_list">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>need list</label>
+            <language>en</language>
+            <name>x_1830266_need_lis_need_list</name>
+            <plural>need lists</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-25 05:11:14</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>need list</sys_name>
+            <sys_package display_value="need list" source="x_1830266_need_lis">698f20cac32f2210df2e32a77d0131e7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="need list">698f20cac32f2210df2e32a77d0131e7</sys_scope>
+            <sys_update_name>sys_documentation_x_1830266_need_lis_need_list__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-25 05:11:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
